@@ -232,16 +232,16 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[eventmachine](https://rubygems.org/eventmachine)|v1.2.7|10/12/19|Raymond Augé |Ruby,GPL-2.0|N/A|
-|[jekyll-seo-tag](https://rubygems.org/jekyll-seo-tag)|v2.8.0|12/11/20|BJ Hargrave |MIT|N/A|
-|[webrick](https://rubygems.org/webrick)|v1.7.0|02/18/22|Peter Kriens |BSD-2-Clause|N/A|
+|[eventmachine](https://rubygems.org/eventmachine)|v1.2.7|N/A|N/A |Ruby,GPL-2.0|N/A|
+|[jekyll-seo-tag](https://rubygems.org/jekyll-seo-tag)|v2.8.0|N/A|N/A |MIT|N/A|
+|[webrick](https://rubygems.org/webrick)|v1.7.0|N/A|N/A |BSD-2-Clause|N/A|
 
 
 ## <img width='24' height='24' src='https://img.stackshare.io/package_manager/977/default_9833f2ef0bbc2a946b4cc5e9307264033361076b.png'/> Apache Maven (1)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[org.slf4j:slf4j-api](http://www.slf4j.org)|N/A|12/15/18|Raymond Auge |MIT|N/A|
+|[org.slf4j:slf4j-api](http://www.slf4j.org)|N/A|N/A|N/A |MIT|N/A|
 
 <br/>
 <div align='center'>
