@@ -2,7 +2,7 @@ repo_name: bob-wise0/bnd-build-gradle
 report_id: 6715812e0fa05fc9ff1cd6dcc5fc8694
 version: 0.1
 repo_type: Public
-timestamp: '2024-03-28T09:11:07+00:00'
+timestamp: '2024-03-28T09:26:06+00:00'
 requested_by: bjhargrave
 provider: github
 branch: master
@@ -83,8 +83,6 @@ tools:
   image_url: https://img.stackshare.io/service/989/ruby.png
   detection_source_url: https://github.com/bob-wise0/bnd-build-gradle/blob/master/docs/Gemfile
   detection_source: docs/Gemfile
-  last_updated_by: BJ Hargrave
-  last_updated_on: 2016-08-23 13:24:02.000000000 Z
 - name: Shell
   description: A shell is a text-based terminal, used for manipulating programs and
     files. Shell scripts typically manage program execution.
@@ -106,8 +104,6 @@ tools:
   image_url: https://img.stackshare.io/service/976/ant.png
   detection_source_url: https://github.com/bob-wise0/bnd-build-gradle/blob/master/org.bndtools.p2/eclipse-3.5.2/plugins/org.apache.ant_1.7.1.v20090120-1145/bin/ant.cmd
   detection_source: org.bndtools.p2/eclipse-3.5.2/plugins/org.apache.ant_1.7.1.v20090120-1145/bin/ant.cmd
-  last_updated_by: Neil Bartlett
-  last_updated_on: 2013-06-11 06:20:06.000000000 Z
 - name: Eclipse
   description: IDE for Java EE Developers
   website_url: https://www.eclipse.org/
@@ -118,8 +114,6 @@ tools:
   image_url: https://img.stackshare.io/service/1446/8cyY6D_m.png
   detection_source_url: https://github.com/bob-wise0/bnd-build-gradle/blob/master/docs/_commands/eclipse.md
   detection_source: docs/_commands/eclipse.md
-  last_updated_by: BJ Hargrave
-  last_updated_on: 2016-08-23 13:24:02.000000000 Z
 - name: Git
   description: Fast, scalable, distributed revision control system
   website_url: http://git-scm.com/
@@ -140,8 +134,6 @@ tools:
   image_url: https://img.stackshare.io/service/11563/actions.png
   detection_source_url: https://github.com/bob-wise0/bnd-build-gradle/blob/master/.github/workflows/cibuild.yml
   detection_source: ".github/workflows/cibuild.yml"
-  last_updated_by: BJ Hargrave
-  last_updated_on: 2022-05-10 14:58:22.000000000 Z
 - name: Gradle
   description: A powerful build system for the JVM
   website_url: https://www.gradle.org/
@@ -153,8 +145,6 @@ tools:
   image_url: https://img.stackshare.io/service/975/gradlephant-social-black-bg.png
   detection_source_url: https://github.com/bob-wise0/bnd-build-gradle/blob/master/biz.aQute.bndlib.tests/build.gradle
   detection_source: biz.aQute.bndlib.tests/build.gradle
-  last_updated_by: BJ Hargrave
-  last_updated_on: 2018-09-12 14:06:05.000000000 Z
 - name: Istio
   description: Open platform to connect, manage, and secure microservices, by Google,
     IBM, and Lyft
@@ -167,8 +157,6 @@ tools:
   image_url: https://img.stackshare.io/service/7028/AGpa5VZV.jpg
   detection_source_url: https://github.com/bob-wise0/bnd-build-gradle/blob/master/.github/stale.yml
   detection_source: ".github/stale.yml"
-  last_updated_by: BJ Hargrave
-  last_updated_on: 2020-06-09 17:16:30.000000000 Z
 - name: JUnit
   description: A programmer-oriented testing framework for Java
   website_url: http://junit.org/
@@ -181,8 +169,6 @@ tools:
   image_url: https://img.stackshare.io/service/2020/874086.png
   detection_source_url: https://github.com/bob-wise0/bnd-build-gradle/blob/master/bndtools.test/bndws/test.maven/pom.xml
   detection_source: bndtools.test/bndws/test.maven/pom.xml
-  last_updated_by: Peter Kriens
-  last_updated_on: 2016-06-20 09:37:05.000000000 Z
 - name: Logback
   description: A logging framework for Java applications
   website_url: https://logback.qos.ch/
@@ -193,8 +179,6 @@ tools:
   image_url: https://img.stackshare.io/service/2923/05518ecaa42841e834421e9d6987b04f_400x400.png
   detection_source_url: https://github.com/bob-wise0/bnd-build-gradle/blob/master/bndtools.core.test/logback.xml
   detection_source: bndtools.core.test/logback.xml
-  last_updated_by: BJ Hargrave
-  last_updated_on: 2021-02-25 23:02:29.000000000 Z
 - name: RubyGems
   description: Easily download, install, and use ruby software packages on your system
   website_url: https://rubygems.org/
@@ -205,8 +189,6 @@ tools:
   image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
   detection_source_url: https://github.com/bob-wise0/bnd-build-gradle/blob/master/docs/releases/4.2.0/vendor/bundle/ruby/2.5.0/gems/em-websocket-0.5.1/em-websocket.gemspec
   detection_source: docs/releases/4.2.0/vendor/bundle/ruby/2.5.0/gems/em-websocket-0.5.1/em-websocket.gemspec
-  last_updated_by: Raymond Augé
-  last_updated_on: 2019-10-12 23:52:19.000000000 Z
 - name: SLF4J
   description: Simple logging facade for Java
   website_url: http://slf4j.org/
@@ -217,8 +199,6 @@ tools:
   image_url: https://img.stackshare.io/service/2805/05518ecaa42841e834421e9d6987b04f_400x400.png
   detection_source_url: https://github.com/bob-wise0/bnd-build-gradle/blob/master/maven/bnd-baseline-maven-plugin/pom.xml
   detection_source: maven/bnd-baseline-maven-plugin/pom.xml
-  last_updated_by: Tim Ward
-  last_updated_on: 2015-10-05 16:47:46.000000000 Z
 - name: XSLT
   description: The official Twitter account for the sum of all knowledge, Wikipedia.
     Overseen by @jeffelder.
@@ -241,8 +221,6 @@ tools:
   image_url: https://img.stackshare.io/package/18879/default_d416e715a80ce80ae31b87cff032f5873c8a9d2a.png
   detection_source_url: https://github.com/bob-wise0/bnd-build-gradle/blob/master/docs/Gemfile.lock
   detection_source: docs/releases/4.2.0/vendor/bundle/ruby/2.5.0/gems/em-websocket-0.5.1/em-websocket.gemspec
-  last_updated_by: Raymond Augé
-  last_updated_on: 2019-10-12 23:52:19.000000000 Z
 - name: jekyll-seo-tag
   description: A Jekyll plugin to add metadata tags for search engines and social
     networks to better index and display your site's content
@@ -256,8 +234,6 @@ tools:
   image_url: https://img.stackshare.io/package/19137/default_302643c2b99caa1c440c0d4aa23d4230e1cc78e3.png
   detection_source_url: https://github.com/bob-wise0/bnd-build-gradle/blob/master/docs/Gemfile.lock
   detection_source: docs/Gemfile
-  last_updated_by: BJ Hargrave
-  last_updated_on: 2020-12-11 21:03:16.000000000 Z
 - name: webrick
   description: WEBrick is an HTTP server toolkit that can be configured as an HTTPS
     server
@@ -271,8 +247,6 @@ tools:
   image_url: https://img.stackshare.io/package/19444/default_e747a715ce0379afdb68c78657d70e4a512bf5f4.png
   detection_source_url: https://github.com/bob-wise0/bnd-build-gradle/blob/master/docs/Gemfile.lock
   detection_source: docs/Gemfile
-  last_updated_by: Peter Kriens
-  last_updated_on: 2022-02-18 07:41:23.000000000 Z
 - name: org.slf4j:slf4j-api
   description: The slf4j API
   license: MIT
@@ -283,5 +257,3 @@ tools:
   image_url: https://img.stackshare.io/package/maven/image.png
   detection_source_url: https://github.com/bob-wise0/bnd-build-gradle/blob/master/maven/bnd-baseline-maven-plugin/pom.xml
   detection_source: maven/bnd-baseline-maven-plugin/pom.xml
-  last_updated_by: Raymond Auge
-  last_updated_on: 2018-12-15 18:48:57.000000000 Z
